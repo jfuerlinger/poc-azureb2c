@@ -1,5 +1,15 @@
 # PoC for Azure B2C
 
+## Description
+
+Some simple proof of concept to demonstrate the features of Azure B2C (angular SPA with an .NET core web api).
+
+## Demo
+
+![Demo](./assets/demo.gif)
+
+## Links
+
 [Azure B2C](https://portal.azure.com/#blade/Microsoft_AAD_B2CAdmin/TenantManagementMenuBlade/overview)
 
 Original Inspiration
